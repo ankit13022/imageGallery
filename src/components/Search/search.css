@@ -1,0 +1,22 @@
+.search {
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+}
+.input {
+  padding: 7px;
+  padding-left: 25px;
+  font-size: 16px;
+  margin: 5px;
+  border-radius: 30px;
+  width: 400px;
+  height: 30px;
+}
+.button {
+  padding: 12px;
+  margin: 5px;
+  width: 120px;
+  border-radius: 30px;
+  background-color: rgb(0, 247, 255);
+  font-size: 16px;
+}

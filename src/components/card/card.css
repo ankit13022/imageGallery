@@ -1,0 +1,23 @@
+.img {
+  height: 300px;
+  width: 400px;
+  object-fit: cover;
+}
+.conatin {
+  width: 400px;
+}
+.list {
+  list-style: none;
+  padding: 5px;
+  margin: 5px 0;
+}
+.title {
+  padding: 5px;
+  font-weight: 500;
+}
+.tag {
+  padding: 5px;
+}
+.temp {
+  margin-right: 15px;
+}
