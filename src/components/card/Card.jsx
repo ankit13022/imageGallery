@@ -19,7 +19,7 @@ const Card = ({ image }) => {
         </ul>
       </div>
       <div className="tag">
-        {tags..slice(0, 3).map((tag, index) => (
+        {tags.slice(0, 3).map((tag, index) => (
           <span key={index} className="temp">
             #{tag}
           </span>
